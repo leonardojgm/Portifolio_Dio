@@ -46,7 +46,7 @@ a:hover{
     width: 100%;
     height: 100vh;
     content:'';
-    background-image: url('/assets/img/background-top.svg');
+    background-image: url('assets/img/background-top.svg');
     background-repeat: no-repeat;
     background-size: contain;
     position: fixed;
@@ -56,7 +56,7 @@ a:hover{
 }
 
 .main::after {
-    background-image: url(/assets/img/background-bottom.svg);
+    background-image: url('assets/img/background-bottom.svg');
     background-size: cover;
     bottom: -10rem;
 }
