@@ -1,36 +1,35 @@
 {
   "name": "Leonardo José Garcia Maia",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/22010460?v=4",
   "job": "Desenvolvedor Pleno",
   "location": "Rio de Janeiro - Brasil",
-  "phone": "(21) 98788-0507",
-  "phoneUrl": "(21) 98788-0507",
+  "phone": "+55(21)98788-0507",
   "email": "leonardojgmaia@gmail.com",
   "skills": {
     "professionals": [
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/leonardojgm/Portifolio_Dio/refs/heads/main/data/imgs/csharp.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/leonardojgm/Portifolio_Dio/refs/heads/main/data/imgs/react.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/leonardojgm/Portifolio_Dio/refs/heads/main/data/imgs/angular.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/leonardojgm/Portifolio_Dio/refs/heads/main/data/imgs/python.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/leonardojgm/Portifolio_Dio/refs/heads/main/data/imgs/java.png"
       },
       {
         "name": "PHP",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/leonardojgm/Portifolio_Dio/refs/heads/main/data/imgs/php.png"
       }
     ],
     "personal": [
